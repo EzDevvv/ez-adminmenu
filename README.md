@@ -1,7 +1,7 @@
 # EzAdminMenu by EzDéveloppement ! 
 
-Plus de 60 fonctionnalités intégrées
-Un menu optimisée grâce à l'efficacité du context menu ox_lib 
+Plus de 60 fonctionnalités intégrées \n
+Un menu optimisée grâce à l'efficacité du context menu ox_lib \n 
 Un menu simple et intuitifs pratique a la modération de votre serveur !
 
 

@@ -1,4 +1,4 @@
-# @Ez'AdminMenu ⚙️ | Patchnote #2 
+# @Ez'AdminMenu ⚙️ | Patchnote #1 
 
 **Ajout v1.2.0** :
 
